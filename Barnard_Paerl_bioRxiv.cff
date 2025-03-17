@@ -1,37 +1,26 @@
-@article {Barnard2022.02.23.481667,
-	author = {Barnard, Malcolm A. and Paerl, Hans W.},
-	title = {Using dilution grazing assays to measure size fractionated phytoplankton mortality rates across the freshwater-to-marine continuum},
-	elocation-id = {2022.02.23.481667},
-	year = {2022},
-	doi = {10.1101/2022.02.23.481667},
-	publisher = {Cold Spring Harbor Laboratory},
-	abstract = {There is a need for a unified grazing method that can be used across the freshwater-to-marine continuum. To accomplish this, this research utilized dilution grazing assays across the freshwater-to-marine continuum and across the oligotrophic-to-hypereutrophic gradient by measuring size fractions of dilution-based mortality. This was investigated by using 0.7 {\textmu}m and 0.2 {\textmu}m prefiltered water and major ion solutions (MIS) as diluent media for use in the Landry-Hassett grazing bioassays run in lake, river, estuarine (riverine and lagoonal), and oceanic shelf systems. Because MIS does not include vitamins that would be in prefiltered natural water, vitamin effects on grazing rate determination were also investigated for the MIS bioassays. Results show that the dilution grazing method can be broadly applied across the freshwater-to-marine continuum and across trophic gradients.Competing Interest StatementThe authors have declared no competing interest.},
-	URL = {https://www.biorxiv.org/content/early/2022/02/24/2022.02.23.481667},
-	eprint = {https://www.biorxiv.org/content/early/2022/02/24/2022.02.23.481667.full.pdf},
-	journal = {bioRxiv}
-}
-
-@software{Barnard2022malcolmbarnard,
-	doi = {10.5281/ZENODO.5898592},
-	publisher = {Zenodo},
-	title = {GitHub: malcolmbarnard/Barnard_Paerl_bioRxiv},
-	url = {https://zenodo.org/record/5898592},
-	author = {Barnard, Malcolm},
-	date = {2022-05-10},
-	year = {2022},
-	month = {5},
-	day = {10},
-}
-
-@phdthesis{
-author={Barnard,Malcolm A.},
-year={2021},
-title={Adapting Oceanic Grazing Techniques for Use in High Productivity Aquatic Ecosystems},
-journal={ProQuest Dissertations and Theses},
-pages={91},
-note={Copyright - Database copyright ProQuest LLC; ProQuest does not claim copyright in the individual underlying works; Last updated - 2023-03-08},
-abstract={Grazing of phytoplankton by zooplankton plays a crucial role in carbon and nutrient cycling in aquatic systems. While oceanic grazing rates are well studied, grazing rates in more productive freshwater and estuarine systems are less well characterized. This thesis investigates grazing rates across the freshwater-to-marine continuum using dilution grazing assays. By investigating size fractions of dilution-based mortality using three different diluent media (0.7 µm and 0.2 µm filtered site water and major ion solutions (MIS) in a series of dilution grazing bioassays run in lake, river, estuarine (riverine and lagoonal), and oceanic shelf systems), this thesis research evaluated the optimal diluent for use across the freshwater-to-marine continuum. As MIS does not include natural vitamins that would be in filtered water, B vitamin effects on grazing rate determination were also investigated. Results show that the dilution grazing method can be applied across the freshwater-to-marine continuum and its productivity gradients.},
-keywords={Bioassays; Dilution grazing assays; Freshwater-to-marine continuum; Grazing rate determination; Phytoplankton; Zooplankton grazing; Biological oceanography; Limnology; Ecology; 0329:Ecology; 0793:Limnology; 0416:Biological oceanography},
-isbn={9798759989196},
-language={English},
-} 
+cff-version: 1.2.0
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
+authors:
+  - family-names: Barnard
+    given-names: Malcolm A.
+  - family-names: Paerl
+    given-names: Hans W.
+title: Using dilution grazing assays to measure size fractionated phytoplankton mortality rates across the freshwater-to-marine continuum
+version: 1.0.0
+url: https://www.biorxiv.org/content/early/2022/02/24/2022.02.23.481667
+doi: 10.1101/2022.02.23.481667
+date-released: '2022-03-17'
+preferred-citation:
+  authors:
+    - family-names: Barnard
+      given-names: Malcolm A.
+    - family-names: Paerl
+      given-names: Hans W.
+  title: Using dilution grazing assays to measure size fractionated phytoplankton mortality rates across the freshwater-to-marine continuum
+  doi: 10.1101/2022.02.23.481667
+  url: https://www.biorxiv.org/content/early/2022/02/24/2022.02.23.481667
+  type: article-journal
+  year: '2022'
+  conference: {}
+  publisher:
+    name: Cold Spring Harbor Laboratory
